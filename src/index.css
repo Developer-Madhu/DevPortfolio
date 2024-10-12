@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Scrolling animation for continuous horizontal scrolling */
+/* .scrolling-wrapper {
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+.scrolling-content {
+  display: flex;
+  animation: scroll 20s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+} */
+/* Scrolling wrapper should take full width of the screen */
+/* Scrolling wrapper should take full width of the screen */
+/* Scrolling wrapper should take full width of the screen */
+/* index.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.scrolling-wrapper {
+  width: 170vw; /* Full width of the viewport */
+  overflow: hidden; /* Hide overflow */
+  position: relative;
+}
+
+.animate-scroll {
+  display: flex;
+  animation: scroll 40s linear infinite; /* Adjust duration as needed */
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0); /* Start at the beginning */
+  }
+  100% {
+    transform: translateX(-100%); /* Move to the left */
+  }
+}
+
+/* Adjusting whitespace for continuous scrolling */
+.whitespace-nowrap {
+  white-space: nowrap; /* Prevent wrapping of child elements */
+}
