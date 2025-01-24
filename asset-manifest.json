@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Developer-Madhu/Test-Portfolio.git/static/css/main.538e8edc.css",
+    "main.js": "/Developer-Madhu/Test-Portfolio.git/static/js/main.e982050f.js",
+    "static/js/453.83234151.chunk.js": "/Developer-Madhu/Test-Portfolio.git/static/js/453.83234151.chunk.js",
+    "static/media/hackerrankpy.png": "/Developer-Madhu/Test-Portfolio.git/static/media/hackerrankpy.fdb8fc988182f0d9eb32.png",
+    "static/media/mypic.png": "/Developer-Madhu/Test-Portfolio.git/static/media/mypic.1590f8368a9e59623718.png",
+    "static/media/genai.png": "/Developer-Madhu/Test-Portfolio.git/static/media/genai.5d67891ed8c8e10d08d7.png",
+    "static/media/nptel.png": "/Developer-Madhu/Test-Portfolio.git/static/media/nptel.4166c13d3e9218d4c157.png",
+    "static/media/p3.png": "/Developer-Madhu/Test-Portfolio.git/static/media/p3.035a6e815e698b4bf182.png",
+    "static/media/mpy.png": "/Developer-Madhu/Test-Portfolio.git/static/media/mpy.092943bb2c3dde3632a0.png",
+    "static/media/devrahul.jpg": "/Developer-Madhu/Test-Portfolio.git/static/media/devrahul.c2a8af10ce2bf957f4da.jpg",
+    "static/media/hpagile.png": "/Developer-Madhu/Test-Portfolio.git/static/media/hpagile.03f5e29af7f2ebf7140e.png",
+    "static/media/p2.jpg": "/Developer-Madhu/Test-Portfolio.git/static/media/p2.015b1e7e96392e50466e.jpg",
+    "static/media/p1.jpg": "/Developer-Madhu/Test-Portfolio.git/static/media/p1.6289711056a1d99d0fa9.jpg",
+    "index.html": "/Developer-Madhu/Test-Portfolio.git/index.html",
+    "main.538e8edc.css.map": "/Developer-Madhu/Test-Portfolio.git/static/css/main.538e8edc.css.map",
+    "main.e982050f.js.map": "/Developer-Madhu/Test-Portfolio.git/static/js/main.e982050f.js.map",
+    "453.83234151.chunk.js.map": "/Developer-Madhu/Test-Portfolio.git/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.538e8edc.css",
+    "static/js/main.e982050f.js"
+  ]
+}
